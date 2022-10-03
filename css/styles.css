@@ -1,0 +1,73 @@
+body {
+  background-color: #AEBDCA;
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size:5.625rem;
+  margin: 3.1rem auto 0 ;
+}
+h2{
+  font-weight:normal;
+
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+h1, h2{
+  color:#66BFBF;
+}
+
+h3, a {
+  color:#11999E;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+.skill-row {
+  margin:100px auto;
+  width:50%;
+  text-align:left;
+  line-height: 2;
+}
+.skill1-img {
+  width:25%;
+  float:left;
+  margin-right: 30px;
+  padding-top:10px;
+}
+.skill2-img {
+  margin:auto 0;
+  width:35%;
+  float:right;
+  margin-left: 30px;
+  padding-top:50px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
